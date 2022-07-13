@@ -2,6 +2,7 @@ namespace Foo
 {
     public enum EnumTest
     {
-        MainBranch
+        MainBranch,
+        AnotherBranch
     }
 }
