@@ -8,6 +8,7 @@ namespace Foo
         {
             Test.Hello();
             Console.WriteLine(EnumTest.MainBranch);
+            Console.WriteLine(EnumTest.AnotherBranch);
         }
     }
 }
