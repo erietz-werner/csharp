@@ -1,4 +1,4 @@
-namespace Foo
+namespace Proj3
 {
     public enum EnumTest
     {
