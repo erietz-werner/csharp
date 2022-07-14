@@ -1,15 +1,13 @@
-﻿using Proj2;
+﻿using Proj3;
 
 namespace Foo
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Test.Hello();
-            /* System.Console.WriteLine("Hello World!"); */
-            /* var mainBranch = EnumTest.MainBranch; */
-            /* System.Console.WriteLine(mainBranch); */
+            Console.WriteLine(EnumTest.MainBranch);
         }
     }
 }
