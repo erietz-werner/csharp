@@ -1,6 +1,6 @@
 ﻿using Proj3;
 
-namespace Foo
+namespace Proj1
 {
     class Program
     {
